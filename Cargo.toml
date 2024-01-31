@@ -1,0 +1,12 @@
+[package]
+name = "laes"
+version = "0.1.0"
+edition = "2021"
+keywords = [
+    "futures",
+    "async",
+    "executor",
+    "runtime",
+    "sync-tools",
+]
+
